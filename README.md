@@ -16,8 +16,8 @@
 
 <p>
   <a href="https://github.com/SchroederGiselle">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=SchroederGiselle&show_icons=true&theme=synthwave" alt="SchroederGiselle :: Profile Stats" />
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchroederGiselle&langs_count=16&theme=synthwave&layout=compact" alt="SchroederGiselle :: TopLangs" />
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=SchroederGiselle&show_icons=true&theme=synthwave" alt="GiselleSchroeder :: Profile Stats" />
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchroederGiselle&langs_count=16&theme=synthwave&layout=compact" alt="GiselleSchroeder :: TopLangs" />
  </a>
 </p>
 
