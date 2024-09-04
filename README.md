@@ -1,4 +1,5 @@
-<img width="1834" alt="emojiMaker" src="https://media.discordapp.net/attachments/1280548618536751245/1280548976445227091/README.png?ex=66d87bab&is=66d72a2b&hm=ddc6b50c8c6746bb31e8847e1bd30d167d3ce7758f0b9a82570f32263c6cc5ef&=&format=webp&quality=lossless&width=550&height=281">
+<img width="1834" alt="emojiMaker" src="https://media.discordapp.net/attachments/1280548618536751245/1280570392012128337/README.png?ex=66d88f9d&is=66d73e1d&hm=bfa44a12c611f5de98271d7dffe3fab7ed4ca0ff40a223b1e501d67ad7e2c789&=&format=webp&quality=lossless&width=1158&height=592">
+
 ##
 
 ### 
